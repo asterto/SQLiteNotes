@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLiteNotes</string>
+    <string name="text_save">Сохранено</string>
+    <string name="saved">Сохранено!</string>
+    <string name="text_empty">Введите текст в заголовок</string>
+    <string name="date_not_set">Date not set</string>
+    <string name="time_not_set">Time not set</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_note">Add Note</string>
+    <string name="save">Save</string>
+    <string name="searchview">SearchView</string>
+</resources>
